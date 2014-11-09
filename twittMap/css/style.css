@@ -1,0 +1,13 @@
+#header {
+height: 37px;
+width: auto;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+padding: 10,10,10,10;
+background-color: #3F2860;
+}
+
+#map_canvas {
+}
