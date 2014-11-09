@@ -1,6 +1,6 @@
 <?php 
 	
-	require '/Users/Surya/vendor/autoload.php';
+	require '../vendor/autoload.php';
 	use Aws\Common\Aws;
 	use Aws\DynamoDb\DynamoDbClient;
 
